@@ -27,7 +27,9 @@ Blockchain technology introduces a decentralized and immutable ledger that enabl
 
 ### Main Class
 
-![img.png](img.png)
+
+<img src="screenshots/img.png">
+
 ### Swagger
 <img src="screenshots/img_1.png">
 
